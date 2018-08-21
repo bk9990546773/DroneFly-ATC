@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a67185</color>
+    <color name="colorPrimaryDark">#6b394c</color>
+    <color name="colorAccent">#EE3885</color>
+    <color name="gifSkyColor">#E7F4F7</color>
+
+</resources>

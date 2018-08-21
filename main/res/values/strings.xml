@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DRONE ATC</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="visib">Visible</string>
+
+    <string name="temp">Temperature</string>
+    <string name="pres">Pressure</string>
+    <string name="humi">Humidity</string>
+    <string name="desci">Description</string>
+</resources>
